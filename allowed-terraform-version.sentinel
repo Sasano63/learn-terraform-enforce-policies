@@ -1,5 +1,6 @@
-import "tfplan"
+/*import "tfplan"
 
 main = rule {
   tfplan.terraform_version matches "^0\\.14\\.\\d+$"
 }
+*/
